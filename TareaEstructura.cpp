@@ -1,3 +1,9 @@
+/*
+Este programa fue hecho por: Wilbert Alexander Arana Diaz
+Carnet: AD18005
+Carrera: Ingenieria de Sistemas Informaticos.
+Materia: Estructura de Datos
+*/
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
